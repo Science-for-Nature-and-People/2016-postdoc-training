@@ -19,18 +19,18 @@ This intensive 4-day workshop on *Computational and Collaboration Skills for Int
 
 ## Participants
 
-First Name  | Last Name  | Email | Project | Affiliation
+First Name  | Last Name  |  Project | Affiliation
 ----------- | ---------- | ----- | ------- | ----------- 
-Blake | Rachael | blake@nceas.ucsb.edu | Gulf of Alaska | University of California, Santa Barbara
-Cheng | Samantha	| cheng@nceas.ucsb.edu | SNAPP Evidence Based |	University of California, Santa Barbara
-Couture| Jessica	| couture@nceas.ucsb.edu | Artica |	University of California, Santa Barbara 
-Crausbay | Shelley| crausbay@gmail.com | SNAPP Ecological Drought | University of California, Santa Barbara
-Fagundes |  Camila | cfagundes@wcs.org | SNAPP Amazon Waters |	Wildlife Conservation Society Brazil
-Froehlich | Halley | froehlich@nceas.ucsb.edu | SNAPP Sustainable Aquaculture | 	University of California, Santa Barbara
-Gittman | Rachel	| r.gittman@neu.edu	| SNAPP Coastal Restoration | Northeastern University, Marine Science Institute
-Ochuodho | Thomas |	too0002@auburn.edu | SNAPP Natural Capital Acconting |	Auburn University
-Ramirez | Aaron |	ramirez@nceas.ucsb.edu | SNAPP Ecological Drought |	University of California, Santa Barbara
-Ruslandi | Ruslandi | 	r.ruslandi@ufl.edu | SNAPP Forest Sharing and Sparing |	University of Florida
+Blake | Rachael |  Gulf of Alaska | University of California, Santa Barbara
+Cheng | Samantha	| | SNAPP Evidence Based |	University of California, Santa Barbara
+Couture| Jessica	|  Artica |	University of California, Santa Barbara 
+Crausbay | Shelley|  SNAPP Ecological Drought | University of California, Santa Barbara
+Fagundes |  Camila |  SNAPP Amazon Waters |	Wildlife Conservation Society Brazil
+Froehlich | Halley |  SNAPP Sustainable Aquaculture | 	University of California, Santa Barbara
+Gittman | Rachel	|  SNAPP Coastal Restoration | Northeastern University, Marine Science Institute
+Ochuodho | Thomas |	 SNAPP Natural Capital Acconting |	Auburn University
+Ramirez | Aaron |	 SNAPP Ecological Drought |	University of California, Santa Barbara
+Ruslandi | Ruslandi |  SNAPP Forest Sharing and Sparing |	University of Florida
  
 ## Instructors
 
