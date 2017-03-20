@@ -20,7 +20,7 @@ This intensive 4-day workshop on *Computational and Collaboration Skills for Int
 ## Participants
 
 First Name  | Last Name  |  Project | Affiliation
------------ | ---------- | ----- | ------- | ----------- 
+----------- | ----- | ------- | ----------- 
 Blake | Rachael |  Gulf of Alaska | University of California, Santa Barbara
 Cheng | Samantha	| | SNAPP Evidence Based |	University of California, Santa Barbara
 Couture| Jessica	|  Artica |	University of California, Santa Barbara 
